@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    right:
+      - index.qmd
+      - about.qmd
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+
+
+
