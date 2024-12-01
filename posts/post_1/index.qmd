@@ -1,12 +1,12 @@
 ---
-title: "My own private Idaho"
+title: "My Own Private Idaho"
 description: "For my mom"
 date: "10/17/2024"
 categories:
-- poem
+- poetry
 ---
 
-**My own private Idaho**
+**My Own Private Idaho**
 
 I am in the auburn room
 
@@ -14,7 +14,7 @@ of my chewed through stomach.
 
 It is a shroud beyond the blackthorn trees.
 
-I have left my flesh behind
+I have left the rest of my flesh behind
 
 and I am here with my mother. 
 
