@@ -1,9 +1,9 @@
 ---
 title: "Invisible and Always Visible"
-description: The role of absence in *Columbus* (2017)
+description: The Role of Absence in *Columbus* (2017)
 date: "10/18/2024"
 categories:
-- film
+- Film
 ---
 
 Jin finds a drawing in his recently-comatose father's notebook: a simple rectangle accompanied by the phrases "What is invisible and always visible" and "Much ado about nothing" with the word "nothing" underlined several times.

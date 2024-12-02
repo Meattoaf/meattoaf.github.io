@@ -3,7 +3,8 @@ title: "Idolatrous"
 date: "12/01/2024"
 description: A poem for the ladies
 categories:
-- poetry
+- Poetry
+- Religion
 ---
 
 **Idolatrous**
