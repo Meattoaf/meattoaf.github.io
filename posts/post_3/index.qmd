@@ -1,12 +1,12 @@
 ---
 title: "Lekh Lekha"
 date: "12/02/2024"
-description: A Lesson From *Genesis*
+description: A Lesson from *Genesis*
 categories:
 - Religion
 ---
 
-Genesis 12 begins with God instructing Abraham to leave his homeland of Haran. The magnitude of this command is not lost on God. “Go from your country and your kindred and your father’s house,” God says (12:1). Even the destination is left vague—“the land that I will show you” (12:1). It is a journey marked by uncertainty, requiring an extraordinary leap of faith.
+Genesis 12 begins with God instructing Abraham to leave his homeland of Haran. “Go from your country and your kindred and your father’s house,” God says (12:1). Even the destination is left vague: it is simply “the land that I will show you” (12:1). It is a journey marked by uncertainty, and one that requires a leap of faith.
 
 Karen Armstrong reflects on this passage:
 
@@ -16,7 +16,7 @@ A similar sentiment is echoed in the Quran. In Surah Al-Baqarah, we find the ver
 
 > When it is said to them: 'Follow what Allah hath revealed,' they say, 'Nay! We shall follow the ways of our fathers.' What! Even though their fathers were void of wisdom and guidance? (2:170)
 
-The call to break with the familiar resonates across traditions. But for much of my life, I found it difficult to make that leap. I was worried my doubt itself was enough to invoke divine wrath. My faith was a tautology born of fear: I believed in God because God said to believe. Faith for faith’s sake—a peversion of true faith that is potentially more deserving of divine wrath.
+The call to break with the familiar resonates across faith traditions. And yet, for many, faith becomes a tautology born of fear: We believe in God because God commanded us to believe (or else).
 
 ![*"The Departure of Abraham" in The National Gallery, London*](Abraham.jpg "*The Departure of Abraham in The National Gallery, London*")
 
@@ -24,18 +24,22 @@ David Bentley Hart articulates everything that is wrong with this sort of faith 
 
 > Submission to a morally unintelligible narrative of God’s dealings with his creatures would be a kind of epistemic nihilism, reducing the act of fidelity to God to a brutishly obstinate infidelity to reason (whose substance, again, is God himself). Submission of that kind could not be sincere, because it would make ‘true faith’ and ‘bad faith’—devotion to truth and betrayal of truth—one and the same thing. (Hart, 61)
 
-Another verse from the Quran mirrors this sentiment. In this part of Surah Al-Naml, Musa (Moses) is performing miracles in front of the Pharoah and his people to prove his prophethood. And although he has convinced them, the people deny it:
+Hart's critique is brutal: devotion to truth and betrayal of truth become one and the same when you "believe" in something you don't really think is intelligible. To betray one’s own beliefs out of fear can hardly be called belief at all. It is nothing more than self-preservation.
 
-> And they rejected those signs in iniquity and arrogance, though their souls were convinced thereof: so see what was the end of those who acted corruptly. (27:14)
+It is hard not to give into this sort of fear though. Given the threat of hell, faith - even hollow faith - can seem like a safer bet than confronting doubt, a kind of spiritual _just in case_. But this is like a hoarder clinging to worthless items out of a fear they might need them one rainy day. Eventually, they look around and and realize that their home has become suffocating, that they are buried under the weight of what they were too afraid to let go of.
 
-To betray one’s own beliefs out of fear can hardly be called belief at all. It is no more than a hollow act of self-preservation.
+I am not suggesting that one abandons faith the moment doubt arises. Not at all. But doubt is not the enemy. Whether it leads one deeper into their faith or towards a different path entirely, what matters is that the resulting belief is sincere. Anyone who genuinely cares about truth, and not just escaping a potential hellfire, should follow doubt to its natural conclusion. As the Muslim philosophers of the Brethren of Purity wrote, a seeker of truth should “shun no science, scorn no book, nor cling fanatically to a single creed,” (Encyclopedia of the Brethren of Purity). Nurture your doubts. And keep an open mind.
 
-In *Genesis*, the characters are not merely individuals but symbols of the nations that arise from them. God’s preference for the youngest son—a recurring theme—seems a preference for the new, the untried, the emergent. I don’t think this was a value limited to their time, as if once the rules were written down, the need for exploration ceased. If these texts are indeed guides for life, they suggest that the courage to break from tradition is integral to faith.
-
-Or perhaps that is a self-serving interpretation. Regardless, it is what I believe.
+Judaism, Christianity, and Islam all revere Abraham as a prophet and role model. So it is important that his faith was not a passive one. He walked a path that had not yet been revealed. If Abraham's story is indeed a guide for our own lives, his story suggest that walking into the unknown, guided by a devotion to truth and not fear, is worth the risk.
 
 **References**
 
 David Bentley Hart, "That All Shall Be Saved"
 
 Karen Armstrong, "In the Beginning: A New Interpretation of Genesis"
+
+Encyclopedia of the Brethren of Purity
+
+**Further Reading**
+
+[Do We Mistake Our Passion for Truth with Its Possession? - Renovatio](https://renovatio.zaytuna.edu/article/do-we-mistake-our-passion-for-truth-with-its-possession)

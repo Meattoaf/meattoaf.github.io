@@ -1,6 +1,6 @@
 ---
 title: "My Own Private Idaho"
-description: For My Mom
+description: For my Mom
 date: "10/17/2024"
 categories:
 - Poetry
