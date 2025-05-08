@@ -7,9 +7,7 @@ categories:
 - Religion
 ---
 
-<p align="center">
-  <img src="Mccandless.png" />
-</p>
+![Chris McCandless, 1992](Mccandless.png "Chris McCandless, 1992")
 
 > He felt his smile slide away, melt, fold over, and down on itself like a tallow skin, like the stuff
 of a fantastic candle burning too long and now collapsing and now blown out. Darkness. He was
@@ -37,7 +35,7 @@ And even though I know that who I am now isn’t necessarily more or less authen
 
 I am unable to truly want what conveniently lines up with what I _should_ want. I have this fear that when things align perfectly like that, I have just constructed a false narrative to delude myself. That I am weak-willed. That I want ease over truth. 
 
-Joan Didion says that people with self-respect know that anything worth having has its price. But what if something only feels worth having _because_ it has a price? The only way I know I really love something - and the only way I feel secure in that love - is if there’s something standing in the way of it. I’m not quite sure what to do with that yet.
+Joan Didion says that people with self-respect know that anything worth having has its price (_On Self-Respect_). But what if something only feels worth having _because_ it has a price? The only way I know I really love something - and the only way I feel secure in that love - is if there’s something standing in the way of it. I’m not quite sure what to do with that yet.
 
 But I think, deep down, everyone feels something like that. It’s a common religious idea that pain is purifying, and that a good life is often at odds with an easy one. What we’re searching for is meaning, not just moment-to-moment happiness. Chris knew the price of meaning. He was one of those rare people, said a woman who once knew him, who “insisted on living out his beliefs” (Krakauer 67).
 
@@ -51,11 +49,9 @@ I wonder if Dr. T knows that Chris tried to leave the Alaskan bush. He wasn’t 
 
 _Into the Wild_ is less about McCandless and more about the people who knew and loved him. The most heartbreaking parts of the story are from Ronald Franz who viewed McCandless like a son and who, upon hearing that McCandless had died, drove out into the desert where McCandless once lived, drank for the first time in years and hoped that it was enough to kill him.
 
-Chris had marked that passage from _Doctor Zhivago_ with a note: “HAPPINESS ONLY REAL WHEN SHARED.” Like I said earlier, I don’t quite know what to make of the feeling that pain is holy. But I know it comes from _somewhere_. And I know it means _something_. A meaningful life requires us to give of ourselves. But not for the sake of depletion or suffering as end in and of itself, but to offer something of ourselves _to others_. Punishment is not the same thing as benevolence and self-flagellation helps no one. If nothing else, we should remember to love our neighbors. Our lives mean something - in a way that eludes reason but is felt fully by our emotions - when we do that.
+Chris had marked that passage from _Doctor Zhivago_ with a note: “HAPPINESS ONLY REAL WHEN SHARED.” Like I said earlier, I don’t quite know what to make of the feeling that pain is holy. I know it comes from somewhere. I know it means something. A meaningful life requires us to give of ourselves. Probably not for the sake of depletion or suffering as end in and of itself, but to offer something of ourselves _to others_. Punishment is not the same thing as benevolence; self-flagellation helps no one. If nothing else, we should remember to love our neighbors.
 
-Chris weighed 67 pounds when he died of starvation likely caused by moldy seeds. The last words in his journal, written about two weeks after he became sick and weak, were simply:
-
-_Beautiful blueberries._
+Chris weighed 67 pounds when he died of starvation likely caused by moldy seeds. The last words in his journal, written about two weeks after he became sick and weak, were simply: _Beautiful blueberries._
 
 ---
 
