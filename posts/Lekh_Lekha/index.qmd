@@ -1,7 +1,7 @@
 ---
 title: "Lekh Lekha"
 date: "12/02/2024"
-description: A Lesson from *Genesis*
+description: A lesson from *Genesis*
 categories:
 - Religion
 ---

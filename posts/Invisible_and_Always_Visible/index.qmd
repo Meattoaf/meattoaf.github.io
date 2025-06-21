@@ -1,6 +1,6 @@
 ---
 title: "Invisible and Always Visible"
-description: The Role of Absence in *Columbus* (2017)
+description: The role of absence in *Columbus* (2017)
 date: "10/18/2024"
 categories:
 - Film

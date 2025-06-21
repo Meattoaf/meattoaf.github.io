@@ -1,6 +1,6 @@
 ---
 title: Beautiful Blueberries
-description: "On Chris McCandless, Pain and Meaning"
+description: "On Chris McCandless, pain and meaning"
 date: "04/30/2025"
 categories:
 - Books
